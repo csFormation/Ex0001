@@ -6,10 +6,10 @@
 #include <stdio.h>
 
 int main ( void ) {
-	int num = 8;
+	int num = 4;
 	
-	printf( "El cuadrado de 8 es %d\n", cuadrado( num ) );
-	printf( "El cuadrado de 8 es %d\n", potencia( num ) );
+	printf( "El cuadrado de 4 es %d\n", cuadrado( num ) );
+	printf( "El cuadrado de 4 es %d\n", potencia( num ) );
 	
 	return 0;
 }
