@@ -5,11 +5,13 @@
 #include "funciones.h"
 #include <stdio.h>
 
+#define NUM 8
+
 int main ( void ) {
-	int num = 4;
+	//int num = 4;
 	
-	printf( "El cuadrado de 4 es %d\n", cuadrado( num ) );
-	printf( "El cuadrado de 4 es %d\n", potencia( num ) );
-	
+	printf( "El cuadrado de %d es %d\n", NUM, cuadrado( NUM ) );
+	printf( "El cuadrado de %d es %d\n", NUM, potencia( NUM ) );
+
 	return 0;
 }
