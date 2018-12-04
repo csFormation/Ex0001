@@ -5,7 +5,7 @@
 #include "funciones.h"
 #include <stdio.h>
 
-#define NUM 95
+#define NUM 94
 
 int main ( void ) {
 	//int num = 4;
