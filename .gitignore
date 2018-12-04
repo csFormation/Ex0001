@@ -2,3 +2,6 @@
 *~
 makefile
 main.exe
+.project
+.cproject
+language.settings.xml
